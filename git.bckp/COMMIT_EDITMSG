@@ -1,0 +1,34 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   public/img/blog/blog-1.jpg
+#	modified:   public/img/blog/blog-2.jpg
+#	modified:   public/img/blog/blog-3.jpg
+#	modified:   public/img/blog/blog-4.jpg
+#	deleted:    public/img/blog/blog-5.jpg
+#	deleted:    public/img/blog/blog-6.jpg
+#	deleted:    public/img/blog/blog-author-2.jpg
+#	deleted:    public/img/blog/blog-author-3.jpg
+#	deleted:    public/img/blog/blog-author-4.jpg
+#	deleted:    public/img/blog/blog-author-5.jpg
+#	deleted:    public/img/blog/blog-author-6.jpg
+#	deleted:    public/img/blog/blog-author.jpg
+#	deleted:    public/img/blog/blog-inside-post.jpg
+#	deleted:    public/img/blog/blog-recent-1.jpg
+#	deleted:    public/img/blog/blog-recent-2.jpg
+#	deleted:    public/img/blog/blog-recent-3.jpg
+#	deleted:    public/img/blog/blog-recent-4.jpg
+#	deleted:    public/img/blog/blog-recent-5.jpg
+#	deleted:    public/img/blog/comments-1.jpg
+#	deleted:    public/img/blog/comments-2.jpg
+#	deleted:    public/img/blog/comments-3.jpg
+#	deleted:    public/img/blog/comments-4.jpg
+#	deleted:    public/img/blog/comments-5.jpg
+#	deleted:    public/img/blog/comments-6.jpg
+#	modified:   resources/views/components/footer.blade.php
+#
